@@ -1,4 +1,1 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://mag.tx-ott.me:80/play/live.php?mac=00:1A:79:71:2f:95&stream=1032529&extension=ts&play_token=Ej4yq0izgM
+http://mag.tx-ott.me:80/play/live.php?mac=00:1A:79:71:2f:95&stream=1032529&extension=ts&play_token=Ej4yq0izg
