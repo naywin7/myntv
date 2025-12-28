@@ -19,9 +19,15 @@ https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8
 #EXTINF:-1 group-title="MYANMAR",6.DVB NEW
 https://live-stream.dvb.no/hls/stream_high/index.m3u8
 
-#EXTINF:-1 group-title="MYANMAR",7.TVM
-http://203.81.84.130/hls/mwd_serie/index.m3u8
-
-#EXTINF:-1 group-title="MYANMAR",8.ForatuneTV HD
+#EXTINF:-1 group-title="MYANMAR",7.ForatuneTV HD
 http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
 
+#EXTINF:-1 group-title="MYANMAR",8.TVM
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+
+
+#EXTINF:-1 group-title="MYANMAR",9.GOLDEN 
+http://203.81.84.130/hls/mwd_document/index.m3u8
+
+#EXTINF:-1 group-title="MYANMAR",10.C LIGHT
+http://203.81.84.130/hls/mwd_family/index.m3u8
