@@ -30,4 +30,5 @@ http://203.81.84.130/hls/mwd_family/index.m3u8
 #EXTINF:-1, ForatuneTV HD
 http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
 
-
+#EXTINF:-1,Live sports(mm voice)
+https://live.95tv.live/channel/25/playlist.m3u8
