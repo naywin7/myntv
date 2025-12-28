@@ -1,34 +1,27 @@
-#EXTM3U,
-#EXTINF:-1,Mahar BAWDI
-https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
-#https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+#EXTM3U
 
-#EXTINF:-1,MRTV_4_HD
+
+#EXTINF:-1 group-title="MYANMAR",1.Mahar BAWDI
+https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+
+#EXTINF:-1 group-title="MYANMAR",2.MRTV_4_HD
 https://cdn-live-pyone.secureswiftcontent.com/han/MRTV4/MRTV4/LiveOutput/manifest.m3u8
 
-#EXTINF:-1, CHANNEL7_HD
+#EXTINF:-1 group-title="MYANMAR",3.CHANNEL7_HD
 https://cdn-live-pyone.secureswiftcontent.com/han/PyonePlay/Channel7/LiveOutput/manifest.m3u8
 
-#EXTINF:-1,MAHAR TV
+#EXTINF:-1 group-title="MYANMAR",4.MAHAR TV
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 
-#EXTINF:-1,MAHAR SPORTS 
+#EXTINF:-1 group-title="MYANMAR",5.MAHAR SPORTS 
 https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8
 
-#EXTINF:-1, DVB NEW
+#EXTINF:-1 group-title="MYANMAR",6.DVB NEW
 https://live-stream.dvb.no/hls/stream_high/index.m3u8
 
-#EXTINF:-1,TVM
+#EXTINF:-1 group-title="MYANMAR",7.TVM
 http://203.81.84.130/hls/mwd_serie/index.m3u8
 
-#EXTINF:-1,GOLDEN 
-http://203.81.84.130/hls/mwd_document/index.m3u8
-
-#EXTINF:-1,C LIGHT
-http://203.81.84.130/hls/mwd_family/index.m3u8
-
-#EXTINF:-1, ForatuneTV HD
+#EXTINF:-1 group-title="MYANMAR",8.ForatuneTV HD
 http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
 
-#EXTINF:-1,Live sports(mm voice)
-https://live.95tv.live/channel/25/playlist.m3u8
