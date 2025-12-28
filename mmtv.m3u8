@@ -1,0 +1,36 @@
+#EXTM3U,
+#EXTINF:-1,Mahar BAWDI
+https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+#https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+
+#EXTINF:-1,MRTV_4_HD
+https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+
+#EXTINF:-1, CHANNEL7_HD
+https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
+
+#EXTINF:-1,MAHAR TV
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+
+#EXTINF:-1,MAHAR SPORTS 
+https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8
+
+#EXTINF:-1, DVB NEW
+https://live-stream.dvb.no/hls/stream_high/index.m3u8
+
+#EXTINF:-1,MWD HD
+http://203.81.84.130/hls/mwd/index.m3u8
+
+#EXTINF:-1,TVM
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+
+#EXTINF:-1,GOLDEN 
+http://203.81.84.130/hls/mwd_document/index.m3u8
+
+#EXTINF:-1,C LIGHT
+http://203.81.84.130/hls/mwd_family/index.m3u8
+
+#EXTINF:-1, ForatuneTV HD
+http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
+
+
