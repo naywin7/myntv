@@ -18,9 +18,6 @@ https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8
 #EXTINF:-1, DVB NEW
 https://live-stream.dvb.no/hls/stream_high/index.m3u8
 
-#EXTINF:-1,MWD HD
-http://203.81.84.130/hls/mwd/index.m3u8
-
 #EXTINF:-1,TVM
 http://203.81.84.130/hls/mwd_serie/index.m3u8
 
