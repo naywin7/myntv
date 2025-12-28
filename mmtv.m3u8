@@ -4,10 +4,10 @@ https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
 #https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
 
 #EXTINF:-1,MRTV_4_HD
-https://cdn-live-pyone.secureswiftcontent.com/han/MRTV4/MRTV4/LiveOutput/hvideo-720p.m3u8
+https://cdn-live-pyone.secureswiftcontent.com/han/MRTV4/MRTV4/LiveOutput/manifest.m3u8
 
 #EXTINF:-1, CHANNEL7_HD
-https://cdn-live-pyone.secureswiftcontent.com/han/PyonePlay/Channel7/LiveOutput/hvideo-720p.m3u8
+https://cdn-live-pyone.secureswiftcontent.com/han/PyonePlay/Channel7/LiveOutput/manifest.m3u8
 
 #EXTINF:-1,MAHAR TV
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
