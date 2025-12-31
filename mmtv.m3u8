@@ -28,3 +28,5 @@ http://203.81.84.130/hls/mwd_document/index.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="0",10.C LIGHT
 http://203.81.84.130/hls/mwd_family/index.m3u8
+#EXTINF:-1 group-title="CINEMA"tvg-logo="https://zboxmm.com/uploads/display-ss-200x300/e73d1c3b-6833-47ce-9801-.jpg",Avatar 2025
+https://files2-en.zboxmm.com/zen-842d0947.mp4
