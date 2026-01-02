@@ -20,13 +20,13 @@ https://live-stream.dvb.no/hls/stream_high/index.m3u8
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/fortune-80x80-0b5.jpg",007.ForatuneTV HD
 http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
 
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPQD-1EmMSD3207X-JIn9U2OmwDCyQnSfmQtYb0jSdzg&s=10",008.TVM
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvm-mm.png",008.TVM
 http://203.81.84.130/hls/mwd_serie/index.m3u8
 
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPQD-1EmMSD3207X-JIn9U2OmwDCyQnSfmQtYb0jSdzg&s=10",009.GOLDEN 
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-land-mm.png",009.GOLDEN 
 http://203.81.84.130/hls/mwd_document/index.m3u8
 
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPQD-1EmMSD3207X-JIn9U2OmwDCyQnSfmQtYb0jSdzg&s=10",010.C LIGHT
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-light-mm.png",010.C LIGHT
 http://203.81.84.130/hls/mwd_family/index.m3u8
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channelicon/mrtvent-80x80-26a.jpg",011.Me
 https://mrtvott.com/cache/MRTV-Ent-HD/m3u8/hls_m3u8_MRTV-Ent-HD-TS-H.m3u8
