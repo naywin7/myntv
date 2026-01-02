@@ -1,20 +1,20 @@
 #EXTM3U
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/maharbawdi-80x80-ed0.jpg",001.Mahar BAWDI
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar_bawdi_tv_mm.png",001.Mahar BAWDI
 https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
 
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv42-120x120-81c.jpg",002.MRTV_4_HD
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv_mm_4.png",002.MRTV_4_HD
 https://cdn-live-pyone.secureswiftcontent.com/han/MRTV4/MRTV4/LiveOutput/manifest.m3u8
 
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel7-120x120-81c.jpg",003.CHANNEL7_HD
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel7_mm.png",003.CHANNEL7_HD
 https://cdn-live-pyone.secureswiftcontent.com/han/PyonePlay/Channel7/LiveOutput/manifest.m3u8
 
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mahar-80x80-1ee.jpg",004.MAHAR TV
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar-tv-mm.png",004.MAHAR TV
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mahar-80x80-1ee.jpg",005.MAHAR SPORTS 
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar-tv-mm.png",005.MAHAR SPORTS 
 https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8
 
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/dvb-80x80-064.jpg",006.DVB NEW
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/dd/democratic-voice-of-burma-tv-mm.png",006.DVB NEW
 https://live-stream.dvb.no/hls/stream_high/index.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/fortune-80x80-0b5.jpg",007.ForatuneTV HD
