@@ -32,6 +32,8 @@ http://203.81.84.130/hls/mwd_family/index.m3u8
 https://mrtvott.com/cache/MRTV-Ent-HD/m3u8/hls_m3u8_MRTV-Ent-HD-TS-H.m3u8
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="0",012.FARMER
 https://mrtvott.com/cache/MRTV-FARMER/m3u8/hls_m3u8_MRTV-FARMER-TS-H.m3u8
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="0",013.NRC
+https://mrtvott.com/cache/MRTV-NRC-HD/m3u8/hls_m3u8_MRTV-NRC-HD-TS-H.m3u8
 
 #EXTINF:-1 group-title="CINEMA"tvg-logo="https://zboxmm.com/uploads/display-ss-200x300/e73d1c3b-6833-47ce-9801-.jpg",Avatar 2025
 https://files2-en.zboxmm.com/zen-842d0947.mp4
