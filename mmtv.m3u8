@@ -48,5 +48,5 @@ https://mrtvott.com/cache/MRTV-HD/m3u8/hls_m3u8_MRTV-HD-TS-H.m3u8
 https://mrtvott.com/cache/MRTV-NEWS-HD/m3u8/hls_m3u8_MRTV-NEWS-HD-TS-H.m3u8
 
 
-#EXTINF:-1 group-title="CINEMA"tvg-logo="https://zboxmm.com/uploads/display-ss-200x300/e73d1c3b-6833-47ce-9801-.jpg",Avatar 2025
-https://files2-en.zboxmm.com/zen-842d0947.mp4
+#EXTINF:-1 group-title="CINEMA"tvg-logo="0",MOVIES
+https://files2-en.zboxmm.com/zen-3577812d.mp4
