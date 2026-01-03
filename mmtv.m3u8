@@ -38,5 +38,8 @@ https://mrtvott.com/cache/MRTV-FARMER/m3u8/hls_m3u8_MRTV-FARMER-TS-H.m3u8
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-nrc-mm.png",013.NRC
 https://mrtvott.com/cache/MRTV-NRC-HD/m3u8/hls_m3u8_MRTV-NRC-HD-TS-H.m3u8
 
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-sports-mm.png",014.MRTV Sport
+https://mrtvott.com/cache/MRTV-SPORT/m3u8/hls_m3u8_MRTV-SPORT-TS-H.m3u8
+
 #EXTINF:-1 group-title="CINEMA"tvg-logo="https://zboxmm.com/uploads/display-ss-200x300/e73d1c3b-6833-47ce-9801-.jpg",Avatar 2025
 https://files2-en.zboxmm.com/zen-842d0947.mp4
