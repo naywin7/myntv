@@ -11,7 +11,7 @@ https://cdn-live-pyone.secureswiftcontent.com/han/PyonePlay/Channel7/LiveOutput/
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar-tv-mm.png",004.MAHAR TV
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar-tv-mm.png",005.MAHAR SPORTS 
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar-esports-mm.png",005.MAHAR ESPORTS 
 https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/dd/democratic-voice-of-burma-tv-mm.png",006.DVB NEW
@@ -28,11 +28,11 @@ http://203.81.84.130/hls/mwd_document/index.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-light-mm.png",010.C LIGHT
 http://203.81.84.130/hls/mwd_family/index.m3u8
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channelicon/mrtvent-80x80-26a.jpg",011.Me
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-entertainment-mm.png",011.Me
 https://mrtvott.com/cache/MRTV-Ent-HD/m3u8/hls_m3u8_MRTV-Ent-HD-TS-H.m3u8
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/farmer-80x80-bfa.jpg",012.FARMER
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-farmers-mm.png",012.FARMER
 https://mrtvott.com/cache/MRTV-FARMER/m3u8/hls_m3u8_MRTV-FARMER-TS-H.m3u8
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/nrc-80x80-294.jpg",013.NRC
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-nrc-mm.png",013.NRC
 https://mrtvott.com/cache/MRTV-NRC-HD/m3u8/hls_m3u8_MRTV-NRC-HD-TS-H.m3u8
 
 #EXTINF:-1 group-title="CINEMA"tvg-logo="https://zboxmm.com/uploads/display-ss-200x300/e73d1c3b-6833-47ce-9801-.jpg",Avatar 2025
