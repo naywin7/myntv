@@ -50,7 +50,11 @@ https://mrtvott.com/cache/MRTV-NEWS-HD/m3u8/hls_m3u8_MRTV-NEWS-HD-TS-H.m3u8
 #EXTINF:-1 group-title="MYANMAR" tvg-logo="https://i.imgur.com/zyTQG9F.png",017.MWD
 http://203.81.84.130/hls/mwd/index.m3u8
 
-Sport
+#EXTINF:-1 group-title="MYANMAR" tvg-logo="https://i.imgur.com/zyTQG9F.png",018.MWD EDu:
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+
+$$$$$$$$$$$$$$$$$$$$$===SPORTS===$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_dPdlkdF9b9QNXDM7Szx-iUFa2eoX81X9TfmXtaqtNw&s=10",001.Fight
 https://fighthls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_dPdlkdF9b9QNXDM7Szx-iUFa2eoX81X9TfmXtaqtNw&s=10",002.sport1
@@ -63,6 +67,8 @@ https://pepsi3.abntv.live/hls/psp3.m3u8
 https://pepsi4.abntv.live/hls/psp4.m3u8
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1-nLI704D5b5uKueXMlAgrXRQO2wxXIqrByz6VDyuPA&s=10",006.LIVE (MYN VOICE)
 https://live.95tv.live/channel/25/playlist.m3u8
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$===DOCUMENTRY===$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 #EXTINF:-1 group-title="DOCUMENTRY"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2yqxpHwbUFO64i1pFTSJpSt7DuUrPQLvwGA&usqp=CAU",001.Travel
 https://ptravelhls.persiana.live/hls/stream.m3u8
