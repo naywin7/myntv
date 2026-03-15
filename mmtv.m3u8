@@ -55,17 +55,7 @@ http://203.81.84.130/hls/mwd_movie/index.m3u8
 
 $$$$$$$$$$$$$$$$$$$$$===SPORTS===$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_dPdlkdF9b9QNXDM7Szx-iUFa2eoX81X9TfmXtaqtNw&s=10",001.Fight
-https://fighthls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_dPdlkdF9b9QNXDM7Szx-iUFa2eoX81X9TfmXtaqtNw&s=10",002.sport1
-https://spstr.abntv.live/hls/psstream.m3u8
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_dPdlkdF9b9QNXDM7Szx-iUFa2eoX81X9TfmXtaqtNw&s=10",003.Sport2
-https://pepsi.abntv.live/hls/4spstream.m3u8
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_dPdlkdF9b9QNXDM7Szx-iUFa2eoX81X9TfmXtaqtNw&s=10",004.Sport3
-https://pepsi3.abntv.live/hls/psp3.m3u8
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_dPdlkdF9b9QNXDM7Szx-iUFa2eoX81X9TfmXtaqtNw&s=10",005.Sport4
-https://pepsi4.abntv.live/hls/psp4.m3u8
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1-nLI704D5b5uKueXMlAgrXRQO2wxXIqrByz6VDyuPA&s=10",006.LIVE (MYN VOICE)
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1-nLI704D5b5uKueXMlAgrXRQO2wxXIqrByz6VDyuPA&s=10",LIVE (MYN VOICE)
 https://live.95tv.live/channel/25/playlist.m3u8
 
 $$$$$$$$$$$$$$$$$$$$$$$$$===DOCUMENTRY===$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
@@ -92,27 +82,10 @@ https://bonappetit-samsung.amagi.tv/playlist.m3u8
 https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/playlist.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTRY"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwK3jkol96bdM5Q4GnKZcnAGk3lLqLUiVJMMxOAVvRqQ&s=10",008.NetGeoWild
-https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTRY"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwK3jkol96bdM5Q4GnKZcnAGk3lLqLUiVJMMxOAVvRqQ&s=10",009.NetGeoWild
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTRY"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8TX2Iy7cmGRtsZCLIdgVwPIDMYy8fObecL65ApBHdvA&s=10",010.Travel
+#EXTINF:-1 group-title="DOCUMENTRY"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8TX2Iy7cmGRtsZCLIdgVwPIDMYy8fObecL65ApBHdvA&s=10",009.Travel
 https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTRY"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-OTZkbMHFaepUQt1Sik0V32PpFbcNqpoW4ztoLRjPmw&s=10",011.History
+#EXTINF:-1 group-title="DOCUMENTRY"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-OTZkbMHFaepUQt1Sik0V32PpFbcNqpoW4ztoLRjPmw&s=10",010.History
 https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
-
-#EXTINF:-1 group-title="KIDS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKsDeSBvC-enq1QehUbpxf3R9F7hbggz3xFw4hDv1i0Q&s=10",001.3ABN 
-https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="KIDS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg0RIVgroZdaen-LjN9V_fujj6q7Eub0jMGohTgPG5KA&s=10",002.DISNEY
-https://fl31.moveonjoy.com/DISNEY/index.m3u8
-
-#EXTINF:-1 group-title="KIDS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToICP7UjAnm3No1Qpt9L9o6wCEyjLMfyIQa9s6BvkTjg&s=10",003.DISNY JR
-https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
-
-#EXTINF:-1 group-title="KIDS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYr4pPj8OZ5jAQPu1dwwadGPQ4bmTT2SfqKzAkzAs3lQ&s=10",004.DISNEY XD
-http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
-
-#EXTINF:-1 group-title="CINEMA"tvg-logo="https://tinyurl.com/yxenj55k",TheTank2025
-https://files2-en.zboxmm.com/zen-ad981311.mp4
