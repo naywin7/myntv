@@ -29,30 +29,6 @@ http://203.81.84.130/hls/mwd_document/index.m3u8
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-light-mm.png",010.C LIGHT
 http://203.81.84.130/hls/mwd_family/index.m3u8
 
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-entertainment-mm.png",011.Me
-https://mrtvott.com/cache/MRTV-Ent-HD/m3u8/hls_m3u8_MRTV-Ent-HD-TS-H.m3u8
-
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-farmers-mm.png",012.FARMER
-https://mrtvott.com/cache/MRTV-FARMER/m3u8/cache_MRTV-FARMER_m3u8_hls_m3u8_MRTV-FARMER-TS-H.m3u8
-
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-nrc-mm.png",013.NRC
-https://mrtvott.com/cache/MRTV-NRC-HD/m3u8/hls_m3u8_MRTV-NRC-HD-TS-H.m3u8
-
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-sports-mm.png",014.MRTV Sport
-https://mrtvott.com/cache/MRTV-SPORT/m3u8/hls_m3u8_MRTV-SPORT-TS-H.m3u8
-
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-mm.png",015.MRTV
-https://mrtvott.com/cache/MRTV-HD/m3u8/hls_m3u8_MRTV-HD-TS-H.m3u8
-
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-news-mm.png",016.MRTV News
-https://mrtvott.com/cache/MRTV-NEWS-HD/m3u8/hls_m3u8_MRTV-NEWS-HD-TS-H.m3u8
-
-#EXTINF:-1 group-title="MYANMAR" tvg-logo="https://i.imgur.com/zyTQG9F.png",017.MWD
-http://203.81.84.130/hls/mwd/index.m3u8
-
-#EXTINF:-1 group-title="MYANMAR" tvg-logo="https://i.imgur.com/zyTQG9F.png",018.MWD EDu:
-http://203.81.84.130/hls/mwd_movie/index.m3u8
-
 $$$$$$$$$$$$$$$$$$$$$===SPORTS===$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1-nLI704D5b5uKueXMlAgrXRQO2wxXIqrByz6VDyuPA&s=10",LIVE (MYN VOICE)
