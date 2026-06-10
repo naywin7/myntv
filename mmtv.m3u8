@@ -445,7 +445,7 @@ https://indihuy.streamized.net/atm/DASH/hbohits/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBOSignature1" tvg-name="HBO Signature" group-title="Movies" tvg-logo="https://object-streamo.emonaja.com/img/hbosig.png", HBO Signature (Maxstream)
-https://indihuy.streamized.net/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
+#https://indihuy.streamized.net/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
 https://indihuy.streamized.net/atm/DASH/hbosignature/manifest.mpd
 
 #EXTINF:-1 tvg-id="HBOFamily1" tvg-name="HBO Family" group-title="Movies" tvg-logo="https://object-streamo.emonaja.com/img/hbofamily.png", HBO Family (Maxstream)
@@ -454,7 +454,7 @@ https://indihuy.streamized.net/atm/DASH/hbosignature/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://indihuy.streamized.net/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd
+#https://indihuy.streamized.net/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd
 https://indihuy.streamized.net/atm/DASH/hbofamily/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -472,6 +472,7 @@ https://indihuy.streamized.net/atm/DASH/cinemax/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://indihuy.streamized.net/atm/DASH/hitsmovie/hitsmovie-avc1_2500000=7-3277707030000000.mpd
+https://indihuy.streamized.net/atm/DASH/hitsmovie/manifest.mpd
 
 #EXTINF:-1 tvg-id="ROCKAction.id" tvg-name="ROCK Action" tvg-logo="https://object-streamo.emonaja.com/img/rockaction.png" group-title="Movies", Rock Action (Maxstream)
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
