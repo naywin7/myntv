@@ -307,6 +307,14 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/
 https://jmp2.uk/stvp-DEAJ0500429A
 
 $$$$$$$$$$$$$$$$$$$$$$$$$===DOCUMENTRY===$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
+#EXTINF:-1 tvg-id="Discovery.Asia.id" tvg-name="Discovery Asia.id" tvg-logo="https://mimipipi22.github.io/logo/knowledge/discoveryasia.jpg" group-title="DOCUMENTRY",DISCOVERY ASIA
+https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
+
+
 
 #EXTINF:-1 tvg-id="LoveNature.ca@SD" group-title="DOCUMENTRY" tvg-logo="https://www.visionplus.id/images/repository/756/507756-LOGO-m.png",001.Love Nature
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
