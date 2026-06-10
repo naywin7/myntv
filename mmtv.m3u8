@@ -83,9 +83,6 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20260421&channel_id=464754" tvg-id="464754" tvg-name="beIN Sports USA HD" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="Sports (English Language)", beIN Sports (United States)
-http://23.237.104.106:8080/USA_BEIN/index.m3u8
-
 #EXTINF:-1 tvg-name="beIN SPORTS Xtra" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="Sports (English Language)", beIN Sports XTRA (United States)
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
@@ -348,13 +345,6 @@ https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="DOCUMENTRY"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-OTZkbMHFaepUQt1Sik0V32PpFbcNqpoW4ztoLRjPmw&s=10",010.History
 https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
 
-
-#EXTINF:-1 group-title="DOCUMENTRY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/2019_Discovery_logo.svg",011.Discovery Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://indihuy.streamized.net/atm/DASH/disco/disco-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="DOCUMENTRY", Animal Planet (United States)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
