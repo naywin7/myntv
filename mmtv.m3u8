@@ -307,13 +307,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/
 https://jmp2.uk/stvp-DEAJ0500429A
 
 $$$$$$$$$$$$$$$$$$$$$$$$$===DOCUMENTRY===$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
-#EXTINF:-1 tvg-id="Discovery.Asia.id" tvg-name="Discovery Asia.id" tvg-logo="https://mimipipi22.github.io/logo/knowledge/discoveryasia.jpg" group-title="DOCUMENTRY",DISCOVERY ASIA
-https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
-
 
 
 #EXTINF:-1 tvg-id="LoveNature.ca@SD" group-title="DOCUMENTRY" tvg-logo="https://www.visionplus.id/images/repository/756/507756-LOGO-m.png",001.Love Nature
@@ -326,14 +319,6 @@ https://brandusa-gousa-1-dk.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTRY"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM5uLp8LG7tJml_vCIk-wp_EJDsS-UtyRY4OWK3__SHA&s=10",003.OutDoor
 https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist_1024x576.m3u8
-
-#EXTINF:-1 tvg-name="CGTN Documentary" group-title="DOCUMENTRY" tvg-logo="https://i.imgur.com/JHv0WxM.png",004.CGTN Documentary
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://indihuy.streamized.net/atm/DASH/CGTN_DOCUMENTARY/CGTN_DOCUMENTARY-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 group-title="DOCUMENTRY"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKND-ycnrx4MMJFbIeFUwIf3klhcKAv62pgxt-x6GW0A&s=10",005.INWILD
 https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8
@@ -361,7 +346,7 @@ https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/
 #KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
 
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV Asia" tvg-logo="https://object-streamo.emonaja.com/img/hgtv.webp" group-title="DOCUMENTRY", HGTV
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV Asia" tvg-logo="https://object-streamo.emonaja.com/img/hgtv.webp" group-title="DOCUMENTRY",004.HGTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1e8c2d97a3b4f5d8c669d1a2b7e4c30:03aaa7dcf893e6b934aeb3c46f9df5b9
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd
