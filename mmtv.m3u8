@@ -34,7 +34,7 @@ http://203.81.84.130/hls/mwd_family/index.m3u8
 
 $$$$$$$$$$$$$$$$$$$$$===SPORTS===$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1-nLI704D5b5uKueXMlAgrXRQO2wxXIqrByz6VDyuPA&s=10",LIVE (MYN VOICE)
+###EXTINF:-1 group-title="SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1-nLI704D5b5uKueXMlAgrXRQO2wxXIqrByz6VDyuPA&s=10",LIVE (MYN VOICE)
 https://live.95tv.live/channel/25/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
