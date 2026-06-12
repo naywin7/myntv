@@ -43,6 +43,9 @@ http://203.81.84.130/hls/mwd_family/index.m3u8
 #EXTINF:-1 group-title="NEWS"tvg-logo="0",NEWS
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 
+#EXTINF:-1 group-title="NEWS"tvg-logo="0",BBC NEWS
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1" tvg-logo="https://i.ibb.co/vx6X9LXV/FS1.jpg" group-title="Sports (English Language)", FS1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
