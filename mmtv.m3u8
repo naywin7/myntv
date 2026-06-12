@@ -33,13 +33,11 @@ http://203.81.84.130/hls/mwd_document/index.m3u8
 http://203.81.84.130/hls/mwd_family/index.m3u8
 
 
-..............News........
 #EXTINF:-1 group-title="NEWS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TRT_World_logosu.png",TRT WORLD
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 
 
-
-$$$$$$$$$$$$$$$$$$$$$===SPORTS===$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+##$$$$$$$$$$$$$$$$$$$$$===SPORTS===$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 ###EXTINF:-1 group-title="SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1-nLI704D5b5uKueXMlAgrXRQO2wxXIqrByz6VDyuPA&s=10",LIVE (MYN VOICE)
 https://live.95tv.live/channel/25/playlist.m3u8
