@@ -32,6 +32,10 @@ http://203.81.84.130/hls/mwd_document/index.m3u8
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-light-mm.png",010.C LIGHT
 http://203.81.84.130/hls/mwd_family/index.m3u8
 
+#EXTINF:-1 group-title="CENIMA"tvg-logo="0",2026 Movies
+https://files4-en.zboxmm.com/zen-212cd49e-de08-4b.mp4
+https://files4-en.zboxmm.com/zen-2fac61bf-53ad-48.mp4
+https://files4-en.zboxmm.com/zen-49185780-2e17-45.mp4
 
 ##$$$$$$$$$$$$$$$$$$$$$===SPORTS===$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
@@ -45,7 +49,10 @@ https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="0",DDSPORTS
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+https://d3qs3d2rkhfqrt.
+
+
+cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1" tvg-logo="https://i.ibb.co/vx6X9LXV/FS1.jpg" group-title="Sports (English Language)", FS1
