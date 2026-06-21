@@ -36,7 +36,13 @@ http://203.81.84.130/hls/mwd_family/index.m3u8
 https://files4-en.zboxmm.com/zen-212cd49e-de08-4b.mp4
 https://files4-en.zboxmm.com/zen-2fac61bf-53ad-48.mp4
 https://files4-en.zboxmm.com/zen-49185780-2e17-45.mp4
-
+https://files3-en.zboxmm.com/zen-069cb7a6.mp4
+https://files3-en.zboxmm.com/zen-8aee9e0c.mp4
+https://files3-en.zboxmm.com/zen-11a264bb.mp4
+https://files3-en.zboxmm.com/zen-6b26e246.mp4
+https://files3-en.zboxmm.com/zen-54c2d501.mp4
+https://files3-en.zboxmm.com/zen-d750ef49.mp4
+https://files3-en.zboxmm.com/zen-263a9ae8.mp4
 ##$$$$$$$$$$$$$$$$$$$$$===SPORTS===$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 #EXTINF:-1 group-title="NEWS"tvg-logo="0",NEWS
@@ -46,7 +52,10 @@ https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="0",SPORTS
-https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
+https://thm-it-roku.otteravision.com/thm/it/it_720p_
+
+
+high.m3u8
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="0",DDSPORTS
 https://d3qs3d2rkhfqrt.
