@@ -80,17 +80,6 @@ https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:-1 group-title="NEWS"tvg-logo="0",BBC NEWS
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 
-#EXTINF:-1 group-title="CENIMA"tvg-logo="0",2026 Movies
-https://files4-en.zboxmm.com/zen-212cd49e-de08-4b.mp4
-https://files4-en.zboxmm.com/zen-2fac61bf-53ad-48.mp4
-https://files4-en.zboxmm.com/zen-49185780-2e17-45.mp4
-https://files3-en.zboxmm.com/zen-069cb7a6.mp4
-https://files3-en.zboxmm.com/zen-8aee9e0c.mp4
-https://files3-en.zboxmm.com/zen-11a264bb.mp4
-https://files3-en.zboxmm.com/zen-6b26e246.mp4
-https://files3-en.zboxmm.com/zen-54c2d501.mp4
-https://files3-en.zboxmm.com/zen-d750ef49.mp4
-https://files3-en.zboxmm.com/zen-263a9ae8.mp4
 
 ##$$$$$$$$$$$$$$$$$$$$$===SPORTS===$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
@@ -428,3 +417,42 @@ https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f.m3u8
 https://pullsgp.yyzb456.top/live/stream-698168_lhd.flv?auth_key=1782756681-0-0-42ca147e1c92e9156c4b9d79f66e108b
 #EXTINF:0 tvg-id="ext" group-title="World Cup 2026",MM: Vietnam HD4 (ပွဲချိန်မှလာ)
 https://live05.apusport.com/live/87547578.m3u8
+
+
+................Movies........
+
+#EXTINF:-1 group-title="CENIMA"tvg-logo="https://en.zboxmm.com/uploads/display-ss-200x300/ai-upload/993AB668D049BE97F3FCF9EDF2B53DD5_H_9f75e1.jpg",CrushTheWicked (2026)
+https://files4-en.zboxmm.com/zen-55292f8f-75ac-4a.mp4
+
+#EXTINF:-1 group-title="CENIMA"tvg-logo="https://en.zboxmm.com/uploads/display-ss-200x300/ai-upload/40D4FCB82BA19DECA3C45B92B5FC9DAF_H_0e9510.jpg",Ice-Pocalypse (2026)
+https://files4-en.zboxmm.com/zen-b6b1cbce-0999-49.mp4
+
+#EXTINF:-1 group-title="CENIMA"tvg-logo="https://en.zboxmm.com/uploads/display-ss-200x300/ai-upload/E66FADC9A1C0485E221E5F70224A4EB8_H_b899eb.jpg",The Legend Hunters (2026)
+https://files4-en.zboxmm.com/zen-f14339c6-404a-49.mp4
+
+#EXTINF:-1 group-title="CENIMA"tvg-logo="https://en.zboxmm.com/uploads/display-ss-200x300/ai-upload/AE2E8EC7243EE49187E1994FFE507F0C_H_a513af.jpg",Razor (2026)
+https://files4-en.zboxmm.com/zen-2fac61bf-53ad-48.mp4
+
+#EXTINF:-1 group-title="CENIMA"tvg-logo="https://en.zboxmm.com/uploads/display-ss-200x300/ai-upload/36FDE75A6D89A62E3AA3E6EB8C6BCA7B_H_34f1cf.jpg",Husbands in Action (2026)
+https://files4-en.zboxmm.com/zen-212cd49e-de08-4b.mp4
+
+#EXTINF:-1 group-title="CENIMA"tvg-logo="https://en.zboxmm.com/uploads/display-ss-200x300/ai-upload/12661FE8B0AC685D5510493CFE730DED_H_f63931.jpg",Mortal Kombat II (2026)
+https://files4-en.zboxmm.com/zen-49185780-2e17-45.mp4
+
+#EXTINF:-1 group-title="CENIMA"tvg-logo="https://en.zboxmm.com/uploads/display-ss-200x300/ai-upload/7D2911C15B0611FF36F216229A1C3BF8_H_690d28.jpg",Michael (2026)
+https://files4-en.zboxmm.com/zen-900df08b-3b7b-40.mp4
+
+#EXTINF:-1 group-title="CENIMA"tvg-logo="https://en.zboxmm.com/uploads/display-ss-200x300/ai-upload/535F257E85109CD4F6CAC1FDE2F97A89_H_e6c4a4.jpg",Old Bandits (2026)
+https://files4-en.zboxmm.com/zen-de7859de-2608-4d.mp4
+
+#EXTINF:-1 group-title="CENIMA"tvg-logo="https://en.zboxmm.com/uploads/display-ss-200x300/ai-upload/83A99EE98227DBDA8A3B977D82B42C8D_H_87a723.jpg",Patriot (2026)
+https://files4-en.zboxmm.com/zen-c7b3cbeb-d422-41.mp4
+
+#EXTINF:-1 group-title="CENIMA"tvg-logo="https://en.zboxmm.com/uploads/display-ss-200x300/ai-upload/BF317731A885908F18B7367356766263_H_969521.jpg",The Mandalorian and Grogu (2026)
+https://files4-en.zboxmm.com/zen-8b1fc569-4d35-44.mp4
+
+
+
+
+
+
