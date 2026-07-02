@@ -84,7 +84,7 @@ https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 ##$$$$$$$$$$$$$$$$$$$$$===SPORTS===$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 
-#EXTINF:-1 group-title="SPORTS"tvg-logo="0",SPORTS
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeqy3g0luJ1MusbwogZOVYhH-nMRSWksmpALnNnlTs-g&s=10",AYM SPORTS
 https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -103,7 +103,7 @@ https://love.9xrie8ecms.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20260519&channel_id=524174" tvg-id="524174" tvg-id="beIN SPORTS 2" tvg-logo="https://object-streamo.emonaja.com/img/beinsports2.png" group-title="Sports (English Language)", beIN Sports 2 (TrueVisions)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://love.9xrie8ecms.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8
-https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8?_t=1773179685053
+htps://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8?_t=1773179685053
 
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20260421&channel_id=3118" tvg-id="3118" tvg-id="beIN Sports 3" tvg-logo="https://object-streamo.emonaja.com/img/beinsports3.png" group-title="Sports (English Language)", beIN Sports 3 (TrueVisions)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
