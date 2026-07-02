@@ -31,7 +31,7 @@ http://203.81.84.130/hls/mwd_document/index.m3u8
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-light-mm.png",010.C LIGHT
 http://203.81.84.130/hls/mwd_family/index.m3u8
 
-$$$$$$$$$$$$$$$$$$$$$$$$$===DOCUMENTRY===$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$===DOCUMENTRY===$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 #EXTINF:-1 tvg-id="LoveNature.ca@SD" group-title="DOCUMENTRY" tvg-logo="https://www.visionplus.id/images/repository/756/507756-LOGO-m.png",001.Love Nature
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
