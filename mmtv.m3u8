@@ -420,6 +420,21 @@ https://live05.apusport.com/live/87547578.m3u8
 
 
 ................Movies........
+#EXTINF:-1
+group-title="CENIMA"tvg-logo="https://en.zboxmm.com/uploads/display-ss-200x300/ai-upload/864B922E9667F7F244D0CB7C9A64161F_H_c0c625.jpg",Pee Nak 5 (2026)
+https://files4-en.zboxmm.com/zen-4a2b4d00-d94e-44.mp4
+
+#EXTINF:-1 group-title="CENIMA"tvg-logo="https://en.zboxmm.com/uploads/display-ss-200x300/ai-upload/3D82CE1580DA10FD495F2768B8FCD167_H_1c0e66.jpg",Dracula in Space (2026)
+https://files4-en.zboxmm.com/zen-d263e58f-3210-42.mp4
+
+#EXTINF:-1 group-title="CENIMA"tvg-logo="https://en.zboxmm.com/uploads/display-ss-200x300/ai-upload/152EF2839F26FFAE017025F14E3BEAF6_H_e5f8ff.jpg",No Survivors (2026)
+https://files4-en.zboxmm.com/zen-262dac9e-c1b9-43.mp4
+
+#EXTINF:-1 group-title="CENIMA"tvg-logo="https://en.zboxmm.com/uploads/display-ss-200x300/ai-upload/1A256B930B857B0A4BC696ABFACDB927_H_e09a51.jpg",Desert Warrior (2026)
+https://files4-en.zboxmm.com/zen-780f6f74-38bd-41.mp4
+
+#EXTINF:-1 group-title="CENIMA"tvg-logo="https://en.zboxmm.com/uploads/display-ss-200x300/ai-upload/69F5ABF287F954FA4D6AABD55517EE2F_H_9004f5.jpg", Blades of the Guardians (2026)
+https://files4-en.zboxmm.com/zen-7243e1f7-48db-4d.mp4
 
 #EXTINF:-1 group-title="CENIMA"tvg-logo="https://en.zboxmm.com/uploads/display-ss-200x300/ai-upload/993AB668D049BE97F3FCF9EDF2B53DD5_H_9f75e1.jpg",CrushTheWicked (2026)
 https://files4-en.zboxmm.com/zen-55292f8f-75ac-4a.mp4
