@@ -20,7 +20,7 @@ https://live-stream.dvb.no/hls/stream_high/index.m3u8
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/fortune.webp",007.ForatuneTV HD
 http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
 
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/j9Rwp3mF/Screenshot-20261021-085216-Sky-TV.jpg",008.TVM
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/j9Rwp3mF/Screenshot-20261021-085216-Sky-TV.jpg",008.KidsTV
 http://203.81.84.130/hls/mwd_serie/index.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/V0vGrDLb/Screenshot-20261019-212223-Chrome.jpg",009.GOLDEN 
@@ -94,20 +94,8 @@ https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
 #EXTINF:-1 tvg-id="local.a1197ddfa745" tvg-name="Speed Sports 1" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="671" channel-id="local.a1197ddfa745" group-title="Sports",Speed Sports 1
 https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="local.32b2c7ea9575" tvg-name="Sports First TV" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="672" channel-id="local.32b2c7ea9575" group-title="Sports",Sports First TV
-https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
-
-#EXTINF:-1 tvg-id="local.star-sports-1" tvg-name="Star Sports 1" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="673" group-title="Sports",Star Sports 1
-https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-name="Star Sports 1 Hindi" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="674" channel-id="StarSports1Hindi.in" group-title="Sports",Star Sports 1 Hindi
 https://starsportshindiii.pages.dev/index.m3u8
-
-#EXTINF:-1 tvg-id="StarSports.cn" tvg-name="Star Sports 2" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="675" channel-id="StarSports.cn" group-title="Sports",Star Sports 2
-https://tvsen7.aynaott.com/ssport2hd/index.m3u8
-
-#EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-name="Star Sports 2 Hindi (720p)" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="676" channel-id="StarSports2Hindi.in" tvg-language="hin" tvg-country="IN" group-title="Sports",Star Sports 2 Hindi (720p)
-https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
 
 #EXTINF:-1 tvg-id="local.star-sports-sl-1" tvg-name="Star Sports SL 1" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="677" group-title="Sports",Star Sports SL 1
 https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
@@ -115,8 +103,6 @@ https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-id="local.star-sports-sl-2" tvg-name="Star Sports SL 2" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="678" group-title="Sports",Star Sports SL 2
 https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="local.t-sports-hd" tvg-name="T Sports HD" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="679" group-title="Sports",T Sports HD
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-name="Trace Sport Stars" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="680" channel-id="TraceSportStars.fr" group-title="Sports",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
