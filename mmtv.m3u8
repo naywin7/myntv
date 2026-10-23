@@ -49,6 +49,9 @@ https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTRY"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM5uLp8LG7tJml_vCIk-wp_EJDsS-UtyRY4OWK3__SHA&s=10",003.OutDoor
 https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist_1024x576.m3u8
 
+#EXTINF:-1 group-title="DOCUMENTRY" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",004.Animal Planet HD
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
+
 #EXTINF:-1 group-title="DOCUMENTRY"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKND-ycnrx4MMJFbIeFUwIf3klhcKAv62pgxt-x6GW0A&s=10",005.INWILD
 https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8
 
@@ -67,13 +70,8 @@ https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="DOCUMENTRY"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-OTZkbMHFaepUQt1Sik0V32PpFbcNqpoW4ztoLRjPmw&s=10",010.History
 https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV Asia" tvg-logo="https://object-streamo.emonaja.com/img/hgtv.webp" group-title="DOCUMENTRY",004.HGTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f1e8c2d97a3b4f5d8c669d1a2b7e4c30:03aaa7dcf893e6b934aeb3c46f9df5b9
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd
 
-
-#EXTINF:-1 tvg-name="Aljazeera News" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Aljazeera News
+#EXTINF:-1 group-title="NEWS"tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Aljazeera News
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 group-title="NEWS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BBC_News_%282008%29.svg/250px-BBC_News_%282008%29.svg.png",BBC NEWS
