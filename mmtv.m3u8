@@ -89,11 +89,11 @@ https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 
 
 ##$$$$$$$$$$$$$$$$$$$$$===SPORTS===$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+#EXTINF:-1 tvg-id="local.sony-ten-1" tvg-name="Sony Ten 1" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="666" group-title="Sports",Sony Ten 1
+https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
 
-
-
-"Sony Ten 2 [Backup 1]" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="668" group-title="Sports",Sony Ten 2 [Backup 1]
-https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
+#EXTINF:-1 tvg-id="local.14595ff956ba" tvg-name="Sony Ten 2" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="667" channel-id="local.14595ff956ba" group-title="Sports",Sony Ten 2
+https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/index.m3u8
 
 #EXTINF:-1 tvg-id="local.9b7bf8b44a1d" tvg-name="Sony Ten 5" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="669" channel-id="local.9b7bf8b44a1d" group-title="Sports",Sony Ten 5
 https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/index.m3u8
