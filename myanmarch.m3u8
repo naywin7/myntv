@@ -1,1 +1,90 @@
-0
+#EXTM3U
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/maharbawdi.webp",001.Mahar BAWDI
+https://live.pyoneplay.com/live/01m2tfrqkdceydf6g6f48pdrmn/index.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/mrtv4.webp",002.MRTV_4_HD
+https://live.pyoneplay.com/live/01m2sn12yc6v2enx392qj2ekqt/index.m3u8
+
+#EXTINF:-1 group-title="MYANMAR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Channel_7_myanmar.png/revision/latest?cb=20191211065313", 003.Channel 7
+https://live.pyoneplay.com/live/01m2sr3kyn6bztz3xk02w3t7pn/index.m3u8
+#https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
+
+#EXTINF:-1 group-title="MYANMAR" tvg-logo="https://www.mahar.app/_next/image?url=%2Fimage%2Fbanner.png&w=384&q=75",004.MAHAR TV
+https://ygncdn.com/live/mahar/360p/chunks.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/maharesports.webp",005.MAHAR ESPORTS the 
+https://ygncdn.com/live/maharesports/360p/chunks.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/dvb_bg.webp",006.DVB NEW
+https://live-stream.dvb.no/hls/stream.m3u8
+
+#EXTINF:-1 group-title="MYANMAR" tvg-logo="https://www.myanmartvchannels.com/channels/fortune.webp",007FORTUNE TV
+http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/j9Rwp3mF/Screenshot-20261021-085216-Sky-TV.jpg",008.TVM
+https://203.81.84.130/hls/mwd_serie/index.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/V0vGrDLb/Screenshot-20261019-212223-Chrome.jpg",009.GOLDEN 
+http://203.81.84.130/hls/mwd_document/index.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/b5QH1zfC/Screenshot-20261021-093147-Sky-TV.jpg",010.Channel B
+https://203.81.84.130/hls/mwd_family/index.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/channelme_bg.webp",011.Me
+https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/6LxQcvK/Screenshot-20261019-215503-Chrome.jpg",012.FARMER
+https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/nrc.webp",013.NRC
+https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/mmJTZRN/Screenshot-20261019-221303-Chrome.jpg",014.MRTV Sport
+https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/23b6dSJB/Screenshot-20261019-220419-Chrome.jpg",014.Hluttaw
+https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/mrtv.webp",015.MRTV
+https://mrtvott.com/cache/MRTV-HD/master.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/mrtvnews.webp",016.MRTV News
+https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/7JPc5jGn/Screenshot-20261019-214141-Chrome.jpg",017.MITV
+https://mrtvott.com/efe03482a800124862a7079bad3e5b1a---/cache/MITV/m3u8/cache_MITV_m3u8_hls_m3u8_MITV-TS-L.m3u8
+#https://mrtvott.com/cache/MITV/master.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/heyplay.webp",018.HEYPLAY
+https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/mchannel.webp",019.M_channle
+https://mmtvs.exliatycl.online/channel9/stream.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/5plus_bg.webp",020.5plus
+https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.imgur.com/zyTQG9F.png",021.MWD
+http://203.81.84.130/hls/mwd/index.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.imgur.com/wb3Ku8X.png",022.MWD _Variety
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.imgur.com/4XV7cjU.png",023.MWD_document
+http://203.81.84.130/hls/mwd_document/index.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg",024.Channel 9
+https://mmtvs.exliatycl.online/channel9/stream.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/prZPLp0Q/Screenshot-20261019-214056-Chrome.jpg",025.Channel K
+https://mmtvs.exliatycl.online/channel9/stream.m3u8
+
+#EXTINF:-1 group-title="MYANMAR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Channel_7_myanmar.png/revision/latest?cb=20191211065313", Channel 7
+https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
+
+#EXTINF:-1 group-title="MYANMAR" tvg-logo="https://www.mahar.app/_next/image?url=%2Fimage%2Fbanner.png&w=384&q=75",Mahar TV
+https://ygncdn.com/live/mahar/360p/chunks.m3u8
+
+#EXTINF:-1 group-title="MYANMAR" tvg-logo="https://fortlune.com/storage/2024/09/FORT-FIN-2-scaled.jpg", FORTUNE TV
+http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
+
