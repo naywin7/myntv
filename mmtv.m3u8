@@ -322,41 +322,52 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="Fight.Sports.id" tvg-name="Fight Sports" tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png" group-title="Sports (English Language)", Fight Sports
-https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 
-#EXTINF:-1 tvg-name="EUROSPORT 1" tvg-logo="https://i.imgur.com/s4jDnJh.png" group-title="Sports (English Language)", Eurosport 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+"Sony Ten 2 [Backup 1]" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="668" group-title="Sports",Sony Ten 2 [Backup 1]
+https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
 
-#EXTINF:-1 tvg-name="EUROSPORT 2" tvg-logo="https://i.imgur.com/s4jDnJh.png" group-title="Sports (English Language)", Eurosport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+#EXTINF:-1 tvg-id="local.9b7bf8b44a1d" tvg-name="Sony Ten 5" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="669" channel-id="local.9b7bf8b44a1d" group-title="Sports",Sony Ten 5
+https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/index.m3u8
 
-#EXTINF:-1 tvg-chno="123" tvg-id="Premier.Sports.1.HD.uk" tvg-name="Premier Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79027_dark_360w_270h.png" group-title="Sports (English Language)", Premier Sports 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+#EXTINF:-1 tvg-id="local.9b7bf8b44a1d" tvg-name="Sony Ten 5 [Backup 1]" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="670" group-title="Sports",Sony Ten 5 [Backup 1]
+https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
 
-#EXTINF:-1 tvg-chno="124" tvg-id="Premier.Sports.2.HD.uk" tvg-name="Premier Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109162_dark_360w_270h.png" group-title="Sports (English Language)", Premier Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 tvg-id="local.a1197ddfa745" tvg-name="Speed Sports 1" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="671" channel-id="local.a1197ddfa745" group-title="Sports",Speed Sports 1
+https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
 
-#EXTINF:-1 channel-id="DEAJ0500429A-de" tvg-id="DEAJ0500429A-de" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500429A_20250527T015726SQUARE.png" group-title="Sports (English Language)", SportDigital Free
-https://jmp2.uk/stvp-DEAJ0500429A
+#EXTINF:-1 tvg-id="local.32b2c7ea9575" tvg-name="Sports First TV" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="672" channel-id="local.32b2c7ea9575" group-title="Sports",Sports First TV
+https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
 
+#EXTINF:-1 tvg-id="local.star-sports-1" tvg-name="Star Sports 1" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="673" group-title="Sports",Star Sports 1
+https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-name="Star Sports 1 Hindi" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="674" channel-id="StarSports1Hindi.in" group-title="Sports",Star Sports 1 Hindi
+https://starsportshindiii.pages.dev/index.m3u8
 
+#EXTINF:-1 tvg-id="StarSports.cn" tvg-name="Star Sports 2" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="675" channel-id="StarSports.cn" group-title="Sports",Star Sports 2
+https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
+#EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-name="Star Sports 2 Hindi (720p)" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="676" channel-id="StarSports2Hindi.in" tvg-language="hin" tvg-country="IN" group-title="Sports",Star Sports 2 Hindi (720p)
+https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
+
+#EXTINF:-1 tvg-id="local.star-sports-sl-1" tvg-name="Star Sports SL 1" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="677" group-title="Sports",Star Sports SL 1
+https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
+
+#EXTINF:-1 tvg-id="local.star-sports-sl-2" tvg-name="Star Sports SL 2" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="678" group-title="Sports",Star Sports SL 2
+https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="local.t-sports-hd" tvg-name="T Sports HD" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="679" group-title="Sports",T Sports HD
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+
+#EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-name="Trace Sport Stars" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="680" channel-id="TraceSportStars.fr" group-title="Sports",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="local.704304f21e1c" tvg-name="WOF 1" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="682" channel-id="local.704304f21e1c" group-title="Sports",WOF 1
+https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8
+
+#EXTINF:-1 tvg-id="local.704304f21e1c" tvg-name="WOF 1 [Backup 1]" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="683" channel-id="local.704304f21e1c" group-title="Sports",WOF 1 [Backup 1]
+https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8
+
+#EXTINF:-1 tvg-id="local.d163ab580e17" tvg-name="Xtream Sports" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="684" channel-id="local.d163ab580e17" group-title="Sports",Xtream Sports
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 
