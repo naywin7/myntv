@@ -38,12 +38,7 @@ https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/nrc.webp",013.NRC
 https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
 
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/prZPLp0Q/Screenshot-20261019-214056-Chrome.jpg",014.Channel K
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-https://streammain.myanmartvchannels.com:8443/website-channel9-stream/website-channel9-stream/chunks.m3u8?nimblesessionid=690&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMjoxMjoxMCBBTSZoYXNoX3ZhbHVlPXAraU8zL2dGQnVpelhNMDFKOSt2MVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MTc5Mjk3MzUzMDI5NjcwMzk=
+
 
 
 $$$$$$$$$$$$$$$$$$$$$$$$===DOCUMENTRY===$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
